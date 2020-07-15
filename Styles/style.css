@@ -1,0 +1,34 @@
+
+.rightFaction {
+    height: 300px;
+}
+
+.leftFaction {
+    height: 300px
+}
+
+.factionRightImage {
+    float: left;
+    margin-right: 20px;
+}
+
+.factionLeftImage {
+    float: right;
+    margin-left: 20px;
+}
+
+.factionRightImage, .factionLeftImage {
+    height: 300px;
+    width: 290;
+}
+
+.factionHeader {
+    margin-left: 10px;
+    
+}
+
+.factionText {
+    height: 290px;
+    width: auto;
+    margin: 10px;
+}
